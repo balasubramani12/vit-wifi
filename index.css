@@ -1,0 +1,41 @@
+.head{
+    top: 0;
+    margin-top: 0;
+    background-color: rgb(18, 169, 183);
+}
+img{
+    margin-top: 1%;
+}
+h1{
+    color: firebrick;
+}
+
+a{
+    text-decoration:none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+a:link {
+    color: rgb(155, 12, 17);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(194, 131, 6);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(130, 133, 143);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(11, 174, 38);
+  }
+
+  .quick{
+    margin-top: 1%;
+    margin-left: 2%;
+  }
